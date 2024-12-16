@@ -4,7 +4,7 @@
 
 1. Download ``SignalRGB Plugins`` files to ``Documents > WhirlwindFX > Plugins`` OR alternatively [Click this](https://srgbmods.net/s?p=view/userplugins?-silentlaunch-) to open plugins.
 2. Restart SignalRGB by going to task tray and right clicking OR [Click this](https://srgbmods.net/s?p=app/restart) to restart SignalRGB
-3. Download ``CNVS_Bridge.exe``
+3. Download ``CNVS_Bridge.exe`` from [releases](https://github.com/0xGoldstar/HYTE-CNVS/releases/download/1.0/CNVS_Bridge.exe)
 4. Double click ``CNVS_Bridge.exe`` to start application
 
 Signal will now take control of your Hyte CNVS!
