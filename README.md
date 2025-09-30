@@ -1,3 +1,7 @@
+# This is now discontinued. Please go this [link](https://github.com/0xGoldstar/SignalRGB/blob/main/Plugins/Hyte/CNVS.js) and download the plugin to documents > whirlwindfx > plugins and restart SignalRGB.
+
+---
+
 # HYTE-CNVS
 
 ## SignalRGB Hyte CNVS support 
